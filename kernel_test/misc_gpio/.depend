@@ -1,0 +1,15 @@
+platmisc.o: platmisc.c \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/stdc-predef.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/linux/types.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm/types.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm/types-32.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm-generic/int-ll64.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm/bitsperlong.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm/bitsperlong-32.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm-generic/bitsperlong.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/linux/posix_types.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/linux/stddef.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm/posix_types.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm/posix_types-32.h \
+ /opt/poky/2.5.1/sysroots/cortexa9hf-neon-poky-linux-gnueabi/usr/include/asm-generic/posix_types.h \
+ platmisc.h

@@ -1,0 +1,22 @@
+Nexell, misc alive gpio control driver
+
+Required properties:
+- compatible : "nexell,misc_gpio"
+- misc-addr :  <0xc0010800>
+- misc-name : specific pin name to control
+- misc-id : specific pin number to control
+
+Example:
+	misc_gpio_ctrl_driver@Alv2 {
+        compatible = "nexell,misc_gpio";
+        misc-addr = <0xc0010800>;
+        misc-name = "gpio_Alive2";
+        misc-id = <2>;        
+    };
+
+    misc_gpio_ctrl_driver@Alv4 {
+        compatible = "nexell,misc_gpio";
+        misc-addr = <0xc0010800>;
+        misc-name = "gpio_Alive4";
+        misc-id = <4>;        
+    };
