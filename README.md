@@ -6,7 +6,7 @@
 - Implemented of U-boot and Kernel BSP programming by using C and Linux related library functions. 
 
 
-
+kernel_test    : Practices of kernel device drivers 
 1. Project  #1 : U_boot_Device_Driver - Misc Gpio device driver (Nexell board s5p4418 based)
 2. Project  #2 : Kernel_Device_Driver - Misc Gpio device driver (Nexell board s5p4418 based)
 
@@ -19,5 +19,3 @@ Project #1, #2 worked onto
 - CPU : s5p4418
 - BOARD : convergence-daudio & avn-ref
 
-### kernel_test
-- Practices of kernel device drivers 
