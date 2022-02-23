@@ -13,10 +13,7 @@
 Additionally, 
   Yocto project, Nexell board and Cpu, and Docker compile
   
-PC : ubuntu 20.04 (LTS) + Docker(ubuntu 16.04)
-
-Version : u-boot-2016.01(Yocto sumo base)
-
-CPU : s5p4418
-
-BOARD : convergence-daudio & avn-ref
+- PC : ubuntu 20.04 (LTS) + Docker(ubuntu 16.04)
+- Version : u-boot-2016.01(Yocto sumo base)
+- CPU : s5p4418
+- BOARD : convergence-daudio & avn-ref
