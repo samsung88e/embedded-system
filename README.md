@@ -10,7 +10,7 @@
 1. Project  #1: U-boot GPIO Control (Nexell board s5o4418 based)
 2. Project  #2: Kernel Device Driver - Misc Gpio device driver (Nexell board s5o4418 based)
 
-Additionally, 
+### Additionally, 
   Yocto project, Nexell board and Cpu, and Docker compile
   
 - PC : ubuntu 20.04 (LTS) + Docker(ubuntu 16.04)
