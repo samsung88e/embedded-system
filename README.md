@@ -11,6 +11,7 @@
 2. Project  #2 : Kernel_Device_Driver - Misc Gpio device driver (Nexell board s5p4418 based)
 
 ### Additionally, 
+Project #1, #2 worked onto
   Yocto project, Nexell board and Cpu, and Docker compile
   
 - PC : ubuntu 20.04 (LTS) + Docker(ubuntu 16.04)
