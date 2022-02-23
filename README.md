@@ -18,3 +18,6 @@ Project #1, #2 worked onto
 - Version : u-boot-2016.01(Yocto sumo base)
 - CPU : s5p4418
 - BOARD : convergence-daudio & avn-ref
+
+### kernel_test
+- Practices of kernel device drivers 
