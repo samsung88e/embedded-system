@@ -1,10 +1,11 @@
 # embedded-system
 ## Coasia Nexell corp.
-## Since Dec, 2021
+### Since Dec, 2021
 
 
 - Implemented of U-boot and Kernel BSP programming by using C and Linux related library functions. 
-## Owner: Hyunwoo Teddy Kim 
+
+### Owner: Hyunwoo Teddy Kim 
 
 1. Project  #1: U-boot GPIO Control
 2. Project  #2: Kernel Device Driver (Misc Gpio device driver)
